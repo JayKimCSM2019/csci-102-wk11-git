@@ -2,7 +2,7 @@
 
 # Week 11 Git Workshop
 
-**Author:** <Jay Kim>
+**Author:** <"Jay Kim">
   
 **Section:** <CSCI 102>
 
